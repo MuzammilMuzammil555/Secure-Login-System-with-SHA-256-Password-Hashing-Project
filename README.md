@@ -20,28 +20,9 @@ This Python project demonstrates a secure login system that stores user password
 - json
 - os
 
-## Screenshots
-
-### Main Menu
-
-![Main Menu](screenshots/register.png)
-
-### Successful Login
-
-![Login](screenshots/login_success.png)
-
-### Database View
-
-![Database](screenshots/database.png)
-
 ## Security Concepts Demonstrated
 
 - Password Hashing
 - Authentication
 - User Management
 - Secure Credential Storage
-
-## How to Run
-
-```bash
-python login_system.py
